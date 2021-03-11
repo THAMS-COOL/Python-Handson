@@ -1,0 +1,21 @@
+
+Python installation folder 
+
+C:\Users\HP\AppData\Local\Programs\Python\Python38-32
+
+Python Flask:
+
+1. Create the virtual environment
+2. Install Flask using (pip3 install flask)
+3. Set the FLASK_APP = <any name>.py
+4. Run the flask run command
+
+on running second time -
+
+1. webserver(anyname folder)\Scripts\activate.bat
+
+Virtual environment will be activated
+
+
+--------------------------------------------------------------------------------------
+whenever you are creating virtual environment (venv) -- You need to set the (set FLASK_ENV = developement) && (set FLASK_APP = 'app.py')
